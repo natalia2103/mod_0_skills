@@ -1,0 +1,16 @@
+instance: ScienceClassroom
+
+Attributes:
+hasWindow (false)
+isOpen (true)
+teacherAssigned ("")
+numberOfDesks (26)
+studentsInAttendance ([])
+
+
+Methods:
+addWindow (hasWindow = true)
+closeBuilding (isOpen = false)
+assignTeacher (teacherAssigned = "Mr. Flick")
+removeDesk (numberOfDesks = 25)
+performRollCall (studentsInAttendance = ["Beatrice", "Gandalf", "Pam", "Tracy"])
