@@ -1,0 +1,16 @@
+Class: SchoolClassroom
+
+Attributes:
+hasWindow (boolean)
+isOpen (boolean)
+teacherAssigned (string)
+numberOfDesks (integer)
+studentsInAttendance (array)
+
+
+Methods:
+addWindow (changes hasWindow attribute to true)
+closeBuilding (changes isOpen attribute to false)
+assignTeacher (updates the teacherAssigned attribute)
+removeDesk (changes numberOfDesks attribute)
+performRollCall (updates information of studentsInAttendance attribute)
