@@ -1,4 +1,4 @@
-Class: SchoolClassroom
+Class: Classroom
 
 Attributes:
 hasWindow (boolean)
