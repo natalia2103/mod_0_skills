@@ -1,0 +1,15 @@
+instance: GoldenSierraHighSchool
+
+Attributes:
+mascot ("Grizzly Bear")
+isInSession (true)
+hasCafeteria (false)
+studentsGraduating ([])
+totalNumberofStudents (80)
+
+Methods:
+changeMascot (mascot = "Brown Bear")
+goOnBreak (isInSession = false)
+buildCafeteria (hasCafeteria = true)
+distributeDiplomas (studentsGraduating = ["Sally", "Thomas", "Greg", "Patricia"])
+addNewStudent (totalNumberofStudents = 81)
