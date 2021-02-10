@@ -1,0 +1,15 @@
+Class:  HighSchool
+
+Attributes:
+mascot (string)
+isInSession (Boolean)
+hasCafeteria (Boolean)
+studentsGraduating (array)
+totalNumberOfStudents (integer)
+
+Methods:
+changeMascot (changes mascot attribute)
+goOnBreak (changes isInSession attribute to false)
+buildCafeteria (changes hasCafeteria attribute to true)
+distributeDiplomas (adds information to the studentsGraduating attribute)
+addNewStudent (updates the totalNumberOfStudents attribute)
